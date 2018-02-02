@@ -2,7 +2,7 @@
 Admin Panel for Firebase Apps
 ---
 
-Documentation for Firedash can be found here.
+Documentation for Firedash can be found [here](https://github.com/nikahmadz/Firedash/docs/).
 
 ## Getting Help
 
