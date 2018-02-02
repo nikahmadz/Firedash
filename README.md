@@ -1,5 +1,6 @@
 # Firedash
 Admin Panel for Firebase Apps
+
 ---
 
 Documentation for Firedash can be found here.
