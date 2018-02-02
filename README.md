@@ -1,5 +1,5 @@
 # Firedash
-Admin Panel for Firebase Apps
+**Admin Panel for Firebase Apps**
 
 ---
 
