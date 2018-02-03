@@ -13,4 +13,4 @@ Documentation for Firedash can be found here.
 
 --
 
-Visit: [Our Github](https://github.com/nikahmadz/Firedash/)
+Visit: [Our Github](https://github.com/nikahmadz/Firedash)
