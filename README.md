@@ -1,4 +1,4 @@
-# [Firedash](https://nikahmadz.github.io/Firedash/)
+# :star: [Firedash](https://nikahmadz.github.io/Firedash/)
 **Admin Panel for Firebase Apps**
 
 ---
