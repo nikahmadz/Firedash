@@ -3,7 +3,7 @@
 
 ---
 
-This repository host development & documentation notes for Firedash. To know more about Firedash, [visit the about page](https://nikahmadz.github.io/Firedash/).
+This repository host development & documentation notes for Firedash. To know more about Firedash, [visit the about page][about].
 
 ---
 
@@ -11,4 +11,12 @@ This repository host development & documentation notes for Firedash. To know mor
 
 ---
 
-[About](https://nikahmadz.github.io/Firedash/) | **Our Github** | [Our Wiki](https://github.com/nikahmadz/Firedash/wiki/) | [firedashapp.firebaseapp.com](https://firedashapp.firebaseapp.com/)
+## Helping us
+
+- Found a bug or an error in the app? - [Submit issues here](https://github.com/nikahmadz/Firedash/issues)
+
+---
+
+[About][about] | **Our Github** | [Our Wiki](https://github.com/nikahmadz/Firedash/wiki/) | [firedashapp.firebaseapp.com](https://firedashapp.firebaseapp.com/)
+
+[about]: https://nikahmadz.github.io/Firedash/
