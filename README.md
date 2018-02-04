@@ -7,22 +7,20 @@ Firedash is an Admin Panel for Firebase Apps. It is an instant web app that can 
 
 ---
 
-Documentation for Firedash can be found here.
+## Project status
+
+**This project is currently being developed. View: [Roadmap](https://github.com/nikahmadz/Firedash/wiki/project-roadmap)**
 
 ---
 
-## Project status
-
-**This project is currently being developed.**
+Documentation for Firedash can be found here. [Docs](https://nikahmadz.github.io/Firedash/docs/)
 
 ---
 
 ## Getting Help
 
 - Fastest way to get help is to contact us at [Firedash Discord Channel](https://discord.gg/Xk4DJHs).
-- When you have a valid issue pertaining to Firedash (such as bug or error that need to be fixed), please [submit issue here](https://github.com/nikahmadz/Firedash/issues).  
-**_Do not post comment or question on Issues. Use our Discord channel for discussion._**
-- **Please read our wiki pages for more information.**
+- Visit [our help page]() for more channels.
 
 --
 
