@@ -1,6 +1,5 @@
 # [Firedash](https://nikahmadz.github.io/Firedash/)
-**Admin Panel for Firebase Apps**
-
+ **:fire: - Admin Panel for Firebase Apps**
 ---
 
 Firedash is an Admin Panel for Firebase Apps. It is an instant web app that can be deployed to your Firebase project. Firedash helps you manage your Firebase App from an intuitive and easy-to-use interface, right on your browser.
