@@ -1,3 +1,4 @@
+# Firedash Documentations
 
 ## Getting Started
 
