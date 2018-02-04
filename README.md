@@ -3,7 +3,7 @@
 
 ---
 
-This repository host development & documentation notes for Firedash. To know more about Firedash, [visit the about page][about].
+This repository host development & documentation notes for Firedash projects. To know more about Firedash, [visit the about page][about].
 
 ---
 
