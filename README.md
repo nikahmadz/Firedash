@@ -18,7 +18,6 @@ Firedash is an Admin Panel for Firebase Apps. It is an instant web app that can 
 ## Getting Help
 
 - Fastest way to get help is to contact us at [Firedash Discord Channel](https://discord.gg/Xk4DJHs).
-- Read [FAQ](https://github.com/nikahmadz/Firedash/wiki/faq).
 - Visit [our help page](https://nikahmadz.github.io/Firedash/help/) for more channels.
 
 ---
