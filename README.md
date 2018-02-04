@@ -14,7 +14,7 @@ This repository host development & documentation notes for Firedash. To know mor
 ## Helping us
 
 - Send us comments, suggestions, and feedback. - [Join our community discussion][discord]
-- Found a bug or an error in the app? - [Submit issues here](https://github.com/nikahmadz/Firedash/issues)
+- Report a bug or an error in the app. - [Submit issues here](https://github.com/nikahmadz/Firedash/issues)
 - Help us write better document. - [Update our wiki][wiki]
 
 ---
