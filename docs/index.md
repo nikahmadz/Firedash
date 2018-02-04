@@ -33,7 +33,7 @@ To install Firedash, follow the following steps:
 ## Getting help
 
 - Fastest way to get help is to contact us at [Firedash Discord Channel][discord].
-- Visit [our help page](https://nikahmadz.github.io/Firedash/help/) for more channels.
+- Visit [our help page](https://nikahmadz.github.io/Firedash/help/) for more options.
 
 ## Helping us
 
