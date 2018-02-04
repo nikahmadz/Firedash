@@ -1,2 +1,2 @@
 
-Firedash help page [can be found here](https://nikahmadz.github.io/Firedash/help/)
+Firedash help page can be found here. [Get Help](https://nikahmadz.github.io/Firedash/help/)
