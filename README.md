@@ -1,6 +1,9 @@
 # Firedash Github Repository
+**Firedash is an Admin Panel for Firebase Apps**
 
-**Firedash is an Admin Panel for Firebase Apps**. This repository host development & documentation notes for Firedash. To know more about Firedash, [visit the about page](https://nikahmadz.github.io/Firedash/).
+---
+
+This repository host development & documentation notes for Firedash. To know more about Firedash, [visit the about page](https://nikahmadz.github.io/Firedash/).
 
 ---
 
