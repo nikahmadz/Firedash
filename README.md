@@ -3,7 +3,15 @@
 
 ---
 
-Documentation for Firedash can be found here.
+Documentation for Firedash can be found here.  
+
+---
+
+## Project status
+
+**This project is currently being developed.**
+
+---
 
 ## Getting Help
 
@@ -13,4 +21,4 @@ Documentation for Firedash can be found here.
 
 --
 
-Visit: [Our Github](https://github.com/nikahmadz/Firedash)
+Visit: [Our Github](https://github.com/nikahmadz/Firedash) | [firedashapp.firebaseapp.com](https://firedashapp.firebaseapp.com/)
