@@ -1,5 +1,7 @@
 # Firedash Documentations
 
+---
+
 ## Getting Started
 
 - [Download](https://nikahmadz.github.io/Firedash/docs/#download)
@@ -32,8 +34,6 @@ To install Firedash, follow the following steps:
 
 - Fastest way to get help is to contact us at [Firedash Discord Channel][discord].
 - Visit [our help page](https://nikahmadz.github.io/Firedash/help/) for more channels.
-
----
 
 ## Helping us
 
