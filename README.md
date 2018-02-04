@@ -13,7 +13,9 @@ Firedash is an Admin Panel for Firebase Apps. It is an instant web app that can 
 
 ---
 
-Documentation for Firedash can be found here. [Docs](https://nikahmadz.github.io/Firedash/docs/)
+## Continue reading
+
+- Documentation for Firedash can be found here. [Docs](https://nikahmadz.github.io/Firedash/docs/)
 
 ---
 
