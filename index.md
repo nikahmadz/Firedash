@@ -7,8 +7,6 @@ Firedash is an Admin Panel for Firebase Apps. It is a web application that is me
 
 ---
 
-## Project status
-
 **This project is currently being developed. [View Current Status](https://github.com/nikahmadz/Firedash/wiki/project-status)**
 
 ---
