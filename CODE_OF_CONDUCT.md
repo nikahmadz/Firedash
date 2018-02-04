@@ -12,7 +12,9 @@ with each other**.
 A code of conduct reduces the likelihood that you, or others, will become fatigued or stressed with the project or the community, 
 and **it helps you take action when someone does something you don’t agree with**.
 
-Learn more about [what a code of conduct is](https://opensource.guide/code-of-conduct) and how we enforce it.
+Learn more about [what a code of conduct is][code-of-conduct] and how we enforce it.
+
+[code-of-conduct]: https://opensource.guide/code-of-conduct
 
 ---
 # Firedash Contributor Covenant Code of Conduct
