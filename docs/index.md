@@ -18,7 +18,7 @@ Download the product from [our official website][home].
 
 ## Installation
 
-To install Firedash, follow the following steps.
+To install Firedash, follow the following steps:
 
 1. Install required software into your computer.
 2. Download and extract Firedash files to your Firebase project on your computer.
