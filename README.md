@@ -14,10 +14,11 @@ This repository host development & documentation notes for Firedash. To know mor
 ## Helping us
 
 - Found a bug or an error in the app? - [Submit issues here](https://github.com/nikahmadz/Firedash/issues)
-- Help us write better document - [+ Create new wiki pages](https://github.com/nikahmadz/Firedash/wiki/_new)
+- Help us write better document - [Update wiki][wiki]
 
 ---
 
-[About][about] | **Our Github** | [Our Wiki](https://github.com/nikahmadz/Firedash/wiki/) | [firedashapp.firebaseapp.com](https://firedashapp.firebaseapp.com/)
+[About][about] | **Our Github** | [Our Wiki][wiki] | [firedashapp.firebaseapp.com](https://firedashapp.firebaseapp.com/)
 
 [about]: https://nikahmadz.github.io/Firedash/
+[wiki]: https://github.com/nikahmadz/Firedash/wiki/
