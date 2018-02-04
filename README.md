@@ -1,4 +1,4 @@
-# [Firedash](https://nikahmadz.github.io/Firedash/)
+# Firedash
 **Admin Panel for Firebase Apps**
 
 ---
@@ -27,3 +27,4 @@ Firedash is an Admin Panel for Firebase Apps. It is a web application that is me
 ---
 
 **About** | [Our Github](https://github.com/nikahmadz/Firedash/) | [Our Wiki](https://github.com/nikahmadz/Firedash/wiki/) | [firedashapp.firebaseapp.com](https://firedashapp.firebaseapp.com/)
+
