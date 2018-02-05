@@ -9,7 +9,7 @@
 ---
 
 ## Download
-Download the product from [our official website][home].
+[**Download Firedash**][home] from our official website.
 1. Sign in with your credentials and navigate to the **Download** section.
 2. Enter your **purchase code** to get access to the product.
 3. Download it to your computer.
