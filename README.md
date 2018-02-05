@@ -1,5 +1,5 @@
 # Firedash Github Repository
-**Firedash is an Admin Panel for Firebase Apps**
+**:fire: Firedash is an Admin Panel for Firebase Apps**
 
 ---
 
