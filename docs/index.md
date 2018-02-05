@@ -1,10 +1,13 @@
 # Firedash Documentations
 
+## [Introduction](https://nikahmadz.github.io/Firedash/)
+
 ## Getting Started
 
 - [Download](https://nikahmadz.github.io/Firedash/docs/#download)
 - [Requirements](https://nikahmadz.github.io/Firedash/docs/#requirements)
 - [Installation](https://nikahmadz.github.io/Firedash/docs/#installation)
+- [Getting help](https://nikahmadz.github.io/Firedash/docs/#getting-help)
 
 ---
 
