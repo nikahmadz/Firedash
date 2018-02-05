@@ -4,7 +4,7 @@
 
 - [What is Firedash](https://nikahmadz.github.io/Firedash/)
 - [FAQ](https://github.com/nikahmadz/Firedash/wiki/FAQ)
-
+  
 - [Download](https://nikahmadz.github.io/Firedash/docs/#download)
 - [Requirements](https://nikahmadz.github.io/Firedash/docs/#requirements)
 - [Installation](https://nikahmadz.github.io/Firedash/docs/#installation)
