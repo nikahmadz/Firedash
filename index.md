@@ -9,9 +9,9 @@ Firedash is an **instant web application** that serve as an **Admin Panel for Fi
 
 ## Firedash features
 
-- Instant installation. Deploy it to your project and use it straight away.
-- Beautiful Material Design interface provided by **Vuetify**.
-- Intuitive and easy-to-use tools to manage Firebase Applications from a browser.
+- **Instant installation**. Deploy it to your project and use it straight away.
+- **Beautiful Material Design Interface** provided by **Vuetify**.
+- Intuitive and easy-to-use tools to **manage Firebase Applications from a browser**.
 
 ---
 
@@ -22,6 +22,7 @@ Firedash is an **instant web application** that serve as an **Admin Panel for Fi
 ## Continue reading
 
 - Documentation for Firedash can be found here. [View Docs](https://nikahmadz.github.io/Firedash/docs/)
+- Read [FAQ](https://github.com/nikahmadz/Firedash/wiki/FAQ) for brief answers.
 
 ---
 
