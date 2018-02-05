@@ -20,8 +20,6 @@ Firedash is an **instant web application** that serve as an **Admin Panel for Fi
 **This project is currently being developed. [View Project Status](https://github.com/nikahmadz/Firedash/wiki/project-status)** | 
 **[Download Firedash](https://nikahmadz.github.io/Firedash/docs/#download)**
 
----
-
 - Documentation for Firedash can be found here. [View Docs](https://nikahmadz.github.io/Firedash/docs/)
 - Read [FAQ](https://github.com/nikahmadz/Firedash/wiki/FAQ) for brief answers.
 
