@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- [What is Firedash](https://nikahmadz.github.io/Firedash/)
+- [What is Firedash?](https://nikahmadz.github.io/Firedash/)
 - [FAQ](https://github.com/nikahmadz/Firedash/wiki/FAQ)
 
 ## Getting Started
