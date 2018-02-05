@@ -32,6 +32,8 @@ Firedash is an **instant web application** that serve as an **Admin Panel for Fi
 - Fastest way to get help is to contact us at [Firedash Discord Channel][discord].
 - Visit [our help page](https://nikahmadz.github.io/Firedash/help/) for more options.
 
+===
+
 ## Helping us
 
 - Send us comments, suggestions, and feedback. - [Join our community discussion][discord]
