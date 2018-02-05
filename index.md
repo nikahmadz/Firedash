@@ -3,7 +3,7 @@
 
 ---
 
-Firedash is an **instant web application** that serve as an **Admin Panel for Firebase Applications**. Firedash features an intuitive and easy-to-use tools to help you manage your Firebase Application from a browser. **Deploy Firedash to your Firebase project to use it**.
+Firedash is an **instant web application** that serve as an **Admin Panel for Firebase Applications**. Firedash features an intuitive and easy-to-use tools to manage Firebase Applications from a browser. **Deploy Firedash to your Firebase project to use it**.
 
 ---
 
