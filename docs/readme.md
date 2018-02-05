@@ -1,2 +1,2 @@
 
-Documentation for Firedash can be found here. [View Docs](https://nikahmadz.github.io/Firedash/docs/)
+Documentation for Firedash can be found here. [View Docs](https://github.com/nikahmadz/Firedash/blob/master/docs/index.md)
