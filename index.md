@@ -35,6 +35,7 @@ Firedash is an **instant web application** that serve as an **Admin Panel for Fi
 
 - Send us comments, suggestions, and feedback. - [Join our community discussion][discord]
 - Report bugs and errors in the app. - [Submit issues here](https://github.com/nikahmadz/Firedash/issues)
+- Suggest new feature. - [See the Feature Request page][https://github.com/nikahmadz/Firedash/wiki/Feature-Request].
 - Help us write better document. - [Update our wiki][wiki]
 
 ---
