@@ -4,7 +4,7 @@
 
 - Fastest way to get help is to contact us at [Firedash Discord Channel][discord].
 - Did you find a bug or an error in the app? - [Submit issues here][issues].
-- Your question may have been answered. - Check [FAQ](https://github.com/nikahmadz/Firedash/wiki/faq).
+- Your question may have been answered. - [Check FAQ](https://github.com/nikahmadz/Firedash/wiki/faq).
 - Are you requesting for a new feature? - [See the Feature Request page][newfeature]
 
 ## Code of Conduct
