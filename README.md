@@ -7,7 +7,7 @@ This repository host development & documentation notes for Firedash. To know mor
 
 ---
 
-**This project is currently being developed. [View Current Status](https://github.com/nikahmadz/Firedash/wiki/project-status)**
+**This project is currently being developed. [View Project Status](https://github.com/nikahmadz/Firedash/wiki/project-status)**
 
 ---
 
