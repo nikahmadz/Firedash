@@ -35,12 +35,6 @@ To install Firedash, follow the following steps:
 - Fastest way to get help is to contact us at [Firedash Discord Channel][discord].
 - Visit [our help page](https://nikahmadz.github.io/Firedash/help/) for more options.
 
-## Helping us
-
-- Send us comments, suggestions, and feedback. - [Join our community discussion][discord]
-- Report a bug or an error in the app. - [Submit issues here](https://github.com/nikahmadz/Firedash/issues)
-- Help us write better document. - [Update our wiki][wiki]
-
 ---
 
 [About](https://nikahmadz.github.io/Firedash/) | [Our Github](https://github.com/nikahmadz/Firedash/) | [Our Wiki][wiki] | [firedashapp.firebaseapp.com][home]
